@@ -10,3 +10,9 @@ A practice project for learning the GitHub workflow used in real teams: issues, 
 
 This repo is for practicing the GitHub workflow: create an issue, make a branch, commit changes, open a pull request, and merge.
 
+
+
+## Contact
+
+Questions? Open an issue in this repository.
+
